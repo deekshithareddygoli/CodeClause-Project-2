@@ -1,2 +1,2 @@
-# CodeClause-Project-2
-Fitness Tracker Dashboard using HTML,CSS, JS
+# Web Development Project
+Fitness Tracker Dashboard using HTML,CSS and JavaScript
